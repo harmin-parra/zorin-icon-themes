@@ -1,3 +1,9 @@
+zorin-icon-themes (4.0.6) noble; urgency=medium
+
+  * Added sidebar-hide-symbolic icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Mon, 13 Oct 2025 18:54:06 +0100
+
 zorin-icon-themes (4.0.5) noble; urgency=medium
 
   * Changed applications-graphics and sidebar icons
